@@ -1,2 +1,4 @@
-# HelloWorld
- Inicio para Git e GitHub
+# Hello World
+ Primeiros passos no Git e GitHub!
+
+ Aulas com Gustavo Guanabara - Curso em Vídeo.
